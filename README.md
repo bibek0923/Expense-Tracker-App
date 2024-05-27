@@ -20,10 +20,16 @@ Prerequisites
 * A code editor (e.g., Visual Studio Code, Android Studio)
 
 1. Clone the repository
-   https://github.com/bibek0923/Expense-Tracker-App.git
+   
+     https://github.com/bibek0923/Expense-Tracker-App.git
+   
 2. Install dependencies
+ 
    flutter pub get
+
+   
 3. Run the app
+ 
    flutter run
 
 ##License
